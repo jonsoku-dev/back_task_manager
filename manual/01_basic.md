@@ -9,6 +9,12 @@ $ mongodb/bin/mongod --dbpath=/Users/jongseoklee/mongodb-data
 # 포트번호 찾기 보통 27017인것 같음
 ```
 
+## npm install
+
+```bash
+$ npm install mongodb
+```
+
 # 기본 접속 코드
 
 ## mongodb.js
@@ -189,3 +195,6 @@ db.collection("users")
   });
 ```
 
+```
+
+```
